@@ -17,7 +17,7 @@ Using composer:
 
 ```bash
 
-    composer require kkiapay/kkiapay-php
+    composer require osag11/kkiapay-php
 
 ```
 
