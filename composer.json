@@ -1,5 +1,5 @@
 {
-    "name": "kkiapay/kkiapay-php",
+    "name": "osag11/kkiapay-php",
     "description": "Php sdk for kkiapay payment gateway",
     "version": "0.0.4",
     "type": "library",
