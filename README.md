@@ -3,7 +3,7 @@
 ## Raw Files
 
 ```bash
-    git clone https://github.com/kkiapay/php-sdk.git
+    git clone https://github.com/osag11/php-sdk.git
 ```
 
 
@@ -25,12 +25,12 @@ Using composer:
 
 #### Production
 ```php
-    $kkiapay = new \Kkiapay\Kkiapay($public_key, $private_key, $secret);
+    $kkiapay = new \osag11\Kkiapay($public_key, $private_key, $secret);
 ```
 
 #### Sandbox
 ```php
-    $kkiapay = new \Kkiapay\Kkiapay($public_key, $private_key, $secret, $sandbox = true);
+    $kkiapay = new \osag11\Kkiapay($public_key, $private_key, $secret, $sandbox = true);
 ```
   
 
