@@ -13,7 +13,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "Kkiapay\\": "src/"
+            "osag11\\": "src/"
         }
     }
 }
