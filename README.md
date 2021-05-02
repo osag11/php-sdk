@@ -25,12 +25,12 @@ Using composer:
 
 #### Production
 ```php
-    $kkiapay = new \osag11\Kkiapay($public_key, $private_key, $secret);
+    $kkiapay = new \Kkiapay\Kkiapay($public_key, $private_key, $secret);
 ```
 
 #### Sandbox
 ```php
-    $kkiapay = new \osag11\Kkiapay($public_key, $private_key, $secret, $sandbox = true);
+    $kkiapay = new \Kkiapay\Kkiapay($public_key, $private_key, $secret, $sandbox = true);
 ```
   
 
